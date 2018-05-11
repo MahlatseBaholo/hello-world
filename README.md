@@ -1,2 +1,3 @@
 # hello-world
-machine lerning project 1
+machine learning project 1
+I love machine learning
